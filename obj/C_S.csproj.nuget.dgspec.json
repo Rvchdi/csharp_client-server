@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\OneDrive\\Bureau\\Projet cs\\C_S\\C_S.csproj": {}
+    "C:\\Users\\mac\\source\\repos\\csharp_client-server\\C_S.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\OneDrive\\Bureau\\Projet cs\\C_S\\C_S.csproj": {
+    "C:\\Users\\mac\\source\\repos\\csharp_client-server\\C_S.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\OneDrive\\Bureau\\Projet cs\\C_S\\C_S.csproj",
+        "projectUniqueName": "C:\\Users\\mac\\source\\repos\\csharp_client-server\\C_S.csproj",
         "projectName": "C_S",
-        "projectPath": "C:\\Users\\lenovo\\OneDrive\\Bureau\\Projet cs\\C_S\\C_S.csproj",
-        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\OneDrive\\Bureau\\Projet cs\\C_S\\obj\\",
+        "projectPath": "C:\\Users\\mac\\source\\repos\\csharp_client-server\\C_S.csproj",
+        "packagesPath": "C:\\Users\\mac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mac\\source\\repos\\csharp_client-server\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +48,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,7 +73,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
