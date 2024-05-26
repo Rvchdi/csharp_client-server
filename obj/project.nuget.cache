@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eBPXgJSM9p0CIdt466XhKRtskABtznnnATTbw7gl9FdVNsTGuXIKi8b3XETdKUQwJ1mtMbc+6xlm9jMsRECR2w==",
+  "dgSpecHash": "3KaZOfrqrP+ZddkI5nA/Vtgy6SSCk+O0cmRnPuF1k6z9NMK69Tu3AFWzxOUw4fwIPnn97t/5cvMLbb8paK7Rrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mac\\source\\repos\\csharp_client-server\\C_S.csproj",
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\EFM C#\\csharp_client-server\\C_S.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mac\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\mac\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",

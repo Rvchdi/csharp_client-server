@@ -56,7 +56,7 @@ namespace C_S
                     {
                         MessageBox.Show("Connected successfully", "Informations", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         ADP.Show();
-                        this.Close();
+                        this.Hide();
                     }
                     else
                     {

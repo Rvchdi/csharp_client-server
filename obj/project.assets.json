@@ -1792,11 +1792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mac\\Source\\Repos\\csharp_client-server\\C_S.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\EFM C#\\csharp_client-server\\C_S.csproj",
       "projectName": "C_S",
-      "projectPath": "C:\\Users\\mac\\Source\\Repos\\csharp_client-server\\C_S.csproj",
+      "projectPath": "\\\\Mac\\Home\\Desktop\\EFM C#\\csharp_client-server\\C_S.csproj",
       "packagesPath": "C:\\Users\\mac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mac\\Source\\Repos\\csharp_client-server\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Desktop\\EFM C#\\csharp_client-server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

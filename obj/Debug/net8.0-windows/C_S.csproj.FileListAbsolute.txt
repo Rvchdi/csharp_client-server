@@ -33,3 +33,38 @@ C:\Users\mac\source\repos\csharp_client-server\obj\Debug\net8.0-windows\C_S.cspr
 C:\Users\mac\source\repos\csharp_client-server\obj\Debug\net8.0-windows\C_S.csproj.Up2Date
 C:\Users\mac\source\repos\csharp_client-server\obj\Debug\net8.0-windows\C_S.AddProductForm.resources
 C:\Users\mac\source\repos\csharp_client-server\obj\Debug\net8.0-windows\C_S.ProductList.resources
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\bin\Debug\net8.0-windows\C_S.exe
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\bin\Debug\net8.0-windows\C_S.deps.json
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\bin\Debug\net8.0-windows\C_S.runtimeconfig.json
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\bin\Debug\net8.0-windows\C_S.dll
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\bin\Debug\net8.0-windows\C_S.pdb
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\bin\Debug\net8.0-windows\Google.Protobuf.dll
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\bin\Debug\net8.0-windows\MySql.Data.dll
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\bin\Debug\net8.0-windows\ZstdSharp.dll
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\C_S.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\C_S.AddProductForm.resources
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\C_S.Login.resources
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\C_S.ProductList.resources
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\C_S.Properties.Resources.resources
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\C_S.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\C_S.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\C_S.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\C_S.AssemblyInfo.cs
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\C_S.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\C_S.sourcelink.json
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\C_S.csproj.Up2Date
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\C_S.dll
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\refint\C_S.dll
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\C_S.pdb
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\C_S.genruntimeconfig.cache
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\ref\C_S.dll
