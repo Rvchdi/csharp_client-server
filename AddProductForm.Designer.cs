@@ -187,6 +187,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1187, 788);
             Controls.Add(panel1);
+            FormBorderStyle = FormBorderStyle.None;
             Name = "AddProductForm";
             Text = "Add Product";
             Load += AddProductForm_Load;

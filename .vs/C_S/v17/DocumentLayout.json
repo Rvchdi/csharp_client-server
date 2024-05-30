@@ -1,98 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\EFM C#\\csharp_client-server\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7523195A-9CC9-4AB0-87DB-83701F583807}|C_S.csproj|\\\\mac\\home\\desktop\\efm c#\\csharp_client-server\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7523195A-9CC9-4AB0-87DB-83701F583807}|C_S.csproj|\\\\mac\\home\\desktop\\efm c#\\csharp_client-server\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7523195A-9CC9-4AB0-87DB-83701F583807}|C_S.csproj|\\\\mac\\home\\desktop\\efm c#\\csharp_client-server\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7523195A-9CC9-4AB0-87DB-83701F583807}|C_S.csproj|\\\\mac\\home\\desktop\\efm c#\\csharp_client-server\\addproductform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7523195A-9CC9-4AB0-87DB-83701F583807}|C_S.csproj|\\\\mac\\home\\desktop\\efm c#\\csharp_client-server\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 4,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\EFM C#\\csharp_client-server\\Login.cs",
-              "RelativeDocumentMoniker": "Login.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\EFM C#\\csharp_client-server\\Login.cs",
-              "RelativeToolTip": "Login.cs",
-              "ViewState": "AQIAACsAAADANDMzM7MiwEIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T23:52:14.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\EFM C#\\csharp_client-server\\Login.cs",
-              "RelativeDocumentMoniker": "Login.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\EFM C#\\csharp_client-server\\Login.cs [Design]",
-              "RelativeToolTip": "Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T23:51:59.854Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddProductForm.Designer.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\EFM C#\\csharp_client-server\\AddProductForm.Designer.cs",
-              "RelativeDocumentMoniker": "AddProductForm.Designer.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\EFM C#\\csharp_client-server\\AddProductForm.Designer.cs",
-              "RelativeToolTip": "AddProductForm.Designer.cs",
-              "ViewState": "AQIAALUAAAAAAAAAAAD4v70AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T23:48:53.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddProductForm.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\EFM C#\\csharp_client-server\\AddProductForm.cs",
-              "RelativeDocumentMoniker": "AddProductForm.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\EFM C#\\csharp_client-server\\AddProductForm.cs [Design]",
-              "RelativeToolTip": "AddProductForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T23:46:51.546Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddProductForm.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\EFM C#\\csharp_client-server\\AddProductForm.cs",
-              "RelativeDocumentMoniker": "AddProductForm.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\EFM C#\\csharp_client-server\\AddProductForm.cs",
-              "RelativeToolTip": "AddProductForm.cs",
-              "ViewState": "AQIAABYAAAAAaGZmZuYSwEIAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T23:16:55.302Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

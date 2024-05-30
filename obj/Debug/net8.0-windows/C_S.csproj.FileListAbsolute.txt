@@ -68,3 +68,4 @@ C:\Users\mac\source\repos\csharp_client-server\obj\Debug\net8.0-windows\C_S.Prod
 \\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\C_S.pdb
 \\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\C_S.genruntimeconfig.cache
 \\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\ref\C_S.dll
+\\Mac\Home\Desktop\EFM C#\csharp_client-server\obj\Debug\net8.0-windows\C_S.HomePanel.resources
